@@ -12,6 +12,9 @@ SIF Foundation AI Project
 ## The Problem:
 <img width="564" alt="Screenshot 2024-05-01 at 12 33 10" src="https://github.com/YolandaKrisnadita/CNN-Dysarthria-Classification/assets/92908655/9e2edc39-6a80-4335-84e3-002b34a8fafc">
 
+## Role
+In this project I roled as Data Science for make a model clasification comparation betweern Random Forest and CNN
+
 ## Conclution
 In this project, two models, Random Forest and Assemble CNN, were used to build training models on audio datasets. It was found that Random Forest achieved an accuracy score of 99%, while CNN achieved an accuracy score of 96%. This significant difference in performance can be explained by several factors:
 
