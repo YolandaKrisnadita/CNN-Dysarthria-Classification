@@ -14,6 +14,7 @@ SIF Foundation AI Project
 
 ## Role
 In this project I roled as Data Science for make a model clasification comparation betweern Random Forest and CNN
+access the deploy in [HuggingFace](https://huggingface.co/spaces/Obakeneesan/Dysarthria-SIP-Project)
 
 ## Conclution
 In this project, two models, Random Forest and Assemble CNN, were used to build training models on audio datasets. It was found that Random Forest achieved an accuracy score of 99%, while CNN achieved an accuracy score of 96%. This significant difference in performance can be explained by several factors:
