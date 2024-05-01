@@ -13,7 +13,8 @@ SIF Foundation AI Project
 <img width="564" alt="Screenshot 2024-05-01 at 12 33 10" src="https://github.com/YolandaKrisnadita/CNN-Dysarthria-Classification/assets/92908655/9e2edc39-6a80-4335-84e3-002b34a8fafc">
 
 ## Role
-In this project I roled as Data Science for make a model clasification comparation betweern Random Forest and CNN
+In this project I roled as Data Science for make a model clasification comparation betweern Random Forest and CNN.
+
 access the deploy in [HuggingFace](https://huggingface.co/spaces/Obakeneesan/Dysarthria-SIP-Project)
 
 ## Conclution
